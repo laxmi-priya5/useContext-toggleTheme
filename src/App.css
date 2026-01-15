@@ -43,3 +43,9 @@
 .button-light:hover {
   background-color: #eaeaea;
 }
+
+.form{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
